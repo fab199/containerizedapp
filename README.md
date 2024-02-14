@@ -1,1 +1,1 @@
-**The project is in progress**
+**The project README file is in progress**
