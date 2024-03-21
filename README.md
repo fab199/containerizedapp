@@ -59,4 +59,6 @@ Overall, the architectural design illustrates how the various components interac
 
 5. **Testing**: Utilize Docker to test the containers in the multi-container environment created by Docker Compose. Ensure that all services function as expected and interact correctly.
 
-`THIS PROJECT IS STILL BEING UPDATED`
+
+
+<h2>THIS PROJECT IS STILL BEING UPDATED</h2>
