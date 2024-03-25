@@ -7,7 +7,7 @@
 <br/>
 <img src="https://i.imgur.com/M3xRoer.png" height="80%" width="80%" alt="PROJECT ARCHITECTURE"/>
 <br />
-The architectural design outlined in the transcript describes the structure and interaction of various components within the V Profile Project Setup Local. Here's an explanation of the architectural design:
+The architectural design describes the structure and interaction of various components within the Project Setup Local. Here's an explanation of the architectural design:
 
 1. **User Interaction**:
    - Users interact with the web application by accessing it through a web browser. by using a domain name (URL)
