@@ -1,6 +1,6 @@
 `This Project Involves 3 steps which is: 1.Setup of The App stack 2.Containerization of microservice App using DOcker and 3.Deployment of the microservice App on Kubernetes Cluster`
 
-<h2>STEP 1: SETUP OF THE MICROSERVICE APP STACK(VPROFILE)</h2>
+<h2>STEP 1: SETUP OF THE MICROSERVICE APP STACK</h2>
 
 **Project Architecture**
 
